@@ -2,6 +2,29 @@
 
 I'm Sergio Rolando Martinez, a web development student, and I'd like to showcase my projects and what I'm currently working on.
 
+## Index
+- [Hi, welcome to my Github!](#hi-welcome-to-my-github)
+   * [My projects](#my-projects)
+      + [HOOKDB](#hookdb)
+         - [Status](#status)
+         - [Introduction](#introduction)
+         - [Development](#development)
+         - [Issues](#issues)
+         - [Retrospective](#retrospective)
+      + [Spotify](#spotify)
+         - [Status](#status-1)
+      + [Xiaomi](#xiaomi)
+         - [Status](#status-2)
+      + [Shopiyey](#shopiyey)
+         - [Status](#status-3)
+      + [FilmOut](#filmout)
+         - [Status](#status-4)
+      + [Propify](#propify)
+         - [Status](#status-5)
+      + [Filmview](#filmview)
+
+
+
 ## My projects
 
 ### [HOOKDB](https://hookdb.sergiorm.dev/)
@@ -10,7 +33,7 @@ I'm Sergio Rolando Martinez, a web development student, and I'd like to showcase
 - Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
 - Work in:
     + 🔧 Fixing minor bugs
-    + 📝 Adding new information
+    + 💾 Adding new information in database
 
 #### Introduction
 It is a web project focused on video game information and voting, developed by two people. The project took approximately four months to complete in 2024.
@@ -62,9 +85,56 @@ In short, we would have liked to include many more features, but time was agains
 - More ambitious project: Although the project is ambitious, we had to scale it down due to time constraints and its current size. Many ideas were still left to implement.
 - Automation: Currently, adding a game to the database requires a lot of effort from the administrator. We should find a way to obtain game data more easily. Likewise, the interface and available actions are limited and rudimentary, which I believe can be improved.
 
-### [HOOKDB](https://hookdb.sergiorm.dev/)
-📊 Progress: 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%)
+### [Spotify](https://www.spotify.sergiorm.dev/)
 
 #### Status
-- 🚧 Building the web
-- 🔧 Fixing minor bugs
+- Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- Work in:
+    + 🚧 Developing the web
+    + 📱 Adding responsive design
+    + 🔧 Fixing minor bugs
+    + 📝 Adding project documentation
+
+### [Xiaomi](https://www.xiaomi.sergiorm.dev/)
+
+#### Status
+- Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- Work in:
+    + 🚧 Developing the web
+    + 📱 Adding responsive design
+    + 🔧 Fixing minor bugs
+    + 📝 Adding project documentation
+
+### [Shopiyey](https://www.shopiyey.sergiorm.dev/)
+
+#### Status
+- Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- Work in:
+    + 🚧 Developing the web
+    + 📱 Adding responsive design
+    + 🔧 Fixing minor bugs
+    + 📝 Adding project documentation
+
+### [FilmOut](https://www.filmout.sergiorm.dev/)
+
+#### Status
+- Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)
+- Work in:
+    + 🚧 Developing the web
+    + 📱 Adding responsive design
+    + 🔧 Fixing minor bugs
+    + 📝 Adding project documentation
+
+### [Propify](https://www.propify.sergiorm.dev/)
+
+#### Status
+- Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%)
+- Work in:
+    + 🚧 Developing the web
+    + 📝 Adding project documentation
+
+### [Filmview](https://www.filmview.sergiorm.dev/)
+
+#### Status
+- Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100%)
+
