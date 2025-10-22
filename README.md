@@ -6,12 +6,13 @@ I'm Sergio Rolando Martinez, a web development student, and I'd like to showcase
 
 ### [HOOKDB](https://hookdb.sergiorm.dev/)
 
-##### Status
-Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
-- 🔧 Fixing minor bugs
-- 📝 Adding new information
+#### Status
+- Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
+- Work in:
+    + 🔧 Fixing minor bugs
+    + 📝 Adding new information
 
-##### Introduction
+#### Introduction
 It is a web project focused on video game information and voting, developed by two people. The project took approximately four months to complete in 2024.
 
 
@@ -27,7 +28,7 @@ In my case, I was responsible for the frontend. I used:
 - React Router: a library for efficient page-to-page navigation.
 - Toastify: a library for displaying popup notifications.
 
-##### Development
+#### Development
 First, I designed the application using Figma, a tool I initially had little experience with. After a couple of days, I became proficient in using it, as its interface and functionality are very similar to Adobe Illustrator, with which I already had experience. You can see it [here](https://www.figma.com/design/8aTidF8pYm4eD3DDD0uoXZ/HOOKDB?node-id=0-1&t=WHkvMr6VvAOC2XFH-1)
 
 Subsequently, I began developing the project structure, divided into the following folders:
@@ -42,7 +43,7 @@ Subsequently, I began developing the project structure, divided into the followi
 - router: the different routes for navigating through the web application.
 - tooltips: small information windows that appear when the user clicks on them.
 
-##### Issues
+#### Issues
 
 Numerous problems arose both in the frontend and backend. A key experience mistake on both sides was not standardizing the responses that the backend sent to the frontend. Sometimes it returned an object, an array of objects, or an array of primitive values, which made it difficult to create a robust and simple system for API calls.
 
@@ -52,7 +53,7 @@ After several failed attempts, I decided to rebuild the entire authentication sy
 
 After an exhaustive investigation with my teammate, we finally discovered the cause: in the Network tab of Google Chrome, there was a disabled button called “Disable cache,” which was affecting the application’s behavior. Previous sessions were being stored in the cache, allowing normal users to temporarily access administrator privileges.
 
-##### Retrospective
+#### Retrospective
 In short, we would have liked to include many more features, but time was against us. We had to develop a large number of frontend pages and many backend tables. The things we would have liked to implement are:
 - API response standardization: As mentioned earlier in the “Errors” section, each endpoint returned a different response format, which made frontend development much more complicated.
 - Testing: Adding testing to our application, although it would require more time, would allow us to automate checks and verify the application without having to do it manually.
@@ -64,6 +65,6 @@ In short, we would have liked to include many more features, but time was agains
 ### [HOOKDB](https://hookdb.sergiorm.dev/)
 📊 Progress: 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%)
 
-##### Status
+#### Status
 - 🚧 Building the web
 - 🔧 Fixing minor bugs
