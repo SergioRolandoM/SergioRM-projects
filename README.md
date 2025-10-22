@@ -5,8 +5,15 @@ I'm Sergio Rolando Martinez, a web development student, and I'd like to showcase
 ## My projects
 
 ### [HOOKDB](https://hookdb.sergiorm.dev/)
+
+##### Status
+Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
+- 🔧 Fixing minor bugs
+- 📝 Adding new information
+
 ##### Introduction
 It is a web project focused on video game information and voting, developed by two people. The project took approximately four months to complete in 2024.
+
 
 My teammate was in charge of the backend. He used:
 - Spring: to build the REST API.
@@ -53,3 +60,10 @@ In short, we would have liked to include many more features, but time was agains
 - TypeScript: At that time, I didn’t know TypeScript, so I couldn’t have implemented it. Although it takes more time to apply, in the long run it makes the project more robust.
 - More ambitious project: Although the project is ambitious, we had to scale it down due to time constraints and its current size. Many ideas were still left to implement.
 - Automation: Currently, adding a game to the database requires a lot of effort from the administrator. We should find a way to obtain game data more easily. Likewise, the interface and available actions are limited and rudimentary, which I believe can be improved.
+
+### [HOOKDB](https://hookdb.sergiorm.dev/)
+📊 Progress: 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%)
+
+##### Status
+- 🚧 Building the web
+- 🔧 Fixing minor bugs
