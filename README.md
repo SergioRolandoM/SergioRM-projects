@@ -6,11 +6,6 @@ I'm Sergio Rolando Martinez, a web development student, and I'd like to showcase
 - [Hi, welcome to my Github!](#hi-welcome-to-my-github)
    * [My projects](#my-projects)
       + [HOOKDB](#hookdb)
-         - [Status](#status)
-         - [Introduction](#introduction)
-         - [Development](#development)
-         - [Issues](#issues)
-         - [Retrospective](#retrospective)
       + [Spotify](#spotify)
          - [Status](#status-1)
       + [Xiaomi](#xiaomi)
@@ -76,6 +71,8 @@ After several failed attempts, I decided to rebuild the entire authentication sy
 
 After an exhaustive investigation with my teammate, we finally discovered the cause: in the Network tab of Google Chrome, there was a disabled button called “Disable cache,” which was affecting the application’s behavior. Previous sessions were being stored in the cache, allowing normal users to temporarily access administrator privileges.
 
+After submitting this TFG project, I had to make numerous changes because I lost the latest versions of both the backend and the frontend. This forced me to modify the GitHub Actions workflow files (.yml) for both parts to automate their deployment to my repository and hosting. Additionally, I have been fixing some issues that the website had.
+
 #### Retrospective
 In short, we would have liked to include many more features, but time was against us. We had to develop a large number of frontend pages and many backend tables. The things we would have liked to implement are:
 - API response standardization: As mentioned earlier in the “Errors” section, each endpoint returned a different response format, which made frontend development much more complicated.
@@ -94,6 +91,9 @@ In short, we would have liked to include many more features, but time was agains
     + 📱 Adding responsive design
     + 🔧 Fixing minor bugs
     + 📝 Adding project documentation
+
+#### Introduction
+In this project, I’m creating a Spotify clone using the official API. I’ll be focusing only on the frontend, using React, CSS, HTML, and TypeScript.
 
 ### [Xiaomi](https://www.xiaomi.sergiorm.dev/)
 
