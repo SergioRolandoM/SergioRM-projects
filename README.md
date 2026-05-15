@@ -31,7 +31,7 @@ I'm Sergio Rolando Martinez, a web development student, and I'd like to showcase
     + 💾 Adding new information in database
 
 #### Introduction
-It is a web project focused on video game information and voting, developed by two people. The project took approximately four months to complete in 2024.
+It is a web project focused on video game information and voting, developed by me. The project took approximately five months to complete in 2024.
 
 
 My teammate was in charge of the backend. He used:
