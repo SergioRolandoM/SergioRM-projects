@@ -34,10 +34,14 @@ I'm Sergio Rolando Martinez, a web development student, and I'd like to showcase
 It is a web project focused on video game information and voting, developed by me. The project took approximately five months to complete in 2024.
 
 
-My teammate was in charge of the backend. He used:
+I used in backend / devops:
+- Java: as the main backend programming language.
 - Spring: to build the REST API.
 - Docker: to set up the containers.
 - Hibernate: to connect Spring with MySQL.
+- GitHub Actions: to automate build, testing, and deployment workflows.
+- JPA / JPQL: to handle database operations and custom queries.
+- MVC architecture: to keep the backend organized and maintainable.
 
 In my case, I was responsible for the frontend. I used:
 - Figma: to create the design of our website.
